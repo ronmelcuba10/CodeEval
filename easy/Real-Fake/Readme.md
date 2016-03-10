@@ -11,6 +11,7 @@ The first argument is a path to a file. Each row includes a test case with a cre
 
 ##OUTPUT SAMPLE:
 If a credit card is fake – print Fake, if it’s real – print Real.
+
 1. Fake
 2. Real
 
