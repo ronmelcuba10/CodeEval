@@ -9,7 +9,7 @@ You have received a text encoded with Morse code and want to decode it.
 
 Your program should accept as its first argument a path to a filename. Input example is the following:
 
-1 .- ...- ..--- .-- .... .. . -.-. -..-  ....- .....
+1. - ...- ..--- .-- .... .. . -.-. -..-  ....- .....
 2. -... .... ...--
 
 Each letter is separated by space char, each word is separated by 2 space chars.
