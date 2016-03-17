@@ -1,5 +1,5 @@
-##PANACEA - TRUTH OR LIE
-#CHALLENGE DESCRIPTION:
+#PANACEA - TRUTH OR LIE
+##CHALLENGE DESCRIPTION:
 
 There are many computer and human viruses nowadays. Scientists are scratching their heads over antiviruses that could stop a particular virus and, in most cases, they find right solutions. 
 So, virologists need to know which antiviruses can protect us from viruses, and what they still have to work on to secure against the remaining viruses. Let’s help them out!
