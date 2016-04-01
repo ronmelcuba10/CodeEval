@@ -8,12 +8,12 @@ Given a number n and two integers p1,p2 determine if the bits in position p1 and
 
 The first argument will be a path to a filename containing a comma separated list of 3 integers, one list per line. E.g.
 
-1. 86,2,3
-2. 125,1,2
+    86,2,3
+    125,1,2
 
 ##OUTPUT SAMPLE:
 
 Print to stdout, 'true'(lowercase) if the bits are the same, else 'false'(lowercase). E.g.
 
-1. true
-2. false
+    true
+    false
