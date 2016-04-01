@@ -5,13 +5,13 @@ An Armstrong number is an n-digit number that is equal to the sum of the n'th po
 ##INPUT SAMPLE:
 Your program should accept as its first argument a path to a filename. Each line in this file has a positive integer. E.g.
 
-1. 6
-2. 153
-3. 351
+    6
+    153
+    351
 
 ##OUTPUT SAMPLE:
 Print out True/False if the number is an Armstrong number or not. E.g.
 
-1. True
-2. True
-3. False
+    True
+    True
+    False
