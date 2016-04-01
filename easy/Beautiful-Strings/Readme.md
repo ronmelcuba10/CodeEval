@@ -15,20 +15,20 @@ You're a student writing a report on the youth of this famous hacker. You found 
 
 Your program should accept as its first argument a path to a filename. Each line in this file has a sentence. E.g.
 
-1. ABbCcc
-2. Good luck in the Facebook Hacker Cup this year!
-3. Ignore punctuation, please :)
-4. Sometimes test cases are hard to make up.
-5. So I just go consult Professor Dalves
+    ABbCcc
+    Good luck in the Facebook Hacker Cup this year!
+    Ignore punctuation, please :)
+    Sometimes test cases are hard to make up.
+    So I just go consult Professor Dalves
 
 ##OUTPUT SAMPLE:
 
 Print out the maximum beauty for the string. E.g.
 
 
-1. 152
-2. 754
-3. 491
-4. 729
-5. 646
+    152
+    754
+    491
+    729
+    646
 
