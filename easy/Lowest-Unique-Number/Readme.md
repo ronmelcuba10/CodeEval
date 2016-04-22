@@ -10,12 +10,12 @@ Your program should accept as its first argument a path to a filename.
 
 You're a guide and you're given a set of numbers from players for the round of game. E.g. 2 rounds of the game look this way:
 
-1. 3 3 9 1 6 5 8 1 5 3
-2. 9 2 9 9 1 8 8 8 2 1 1
+    3 3 9 1 6 5 8 1 5 3
+    9 2 9 9 1 8 8 8 2 1 1
 
 ##OUTPUT SAMPLE:
 
 Print a winner's position or 0 in case there is no winner. In the first line of input sample the lowest unique number is 6. So player 5 wins.
 
-1. 5
-2. 0
+    5
+    0
