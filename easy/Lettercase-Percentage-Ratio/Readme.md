@@ -10,10 +10,10 @@ Your program should accept a file as its first argument. Each line of input cont
 
 For example:
 
-1. thisTHIS
-2. AAbbCCDDEE
-3. N
-4. UkJ
+    thisTHIS
+    AAbbCCDDEE
+    N
+    UkJ
 
 ##OUTPUT SAMPLE:
 
@@ -22,8 +22,8 @@ For each line of input, print the percentage ratio of uppercase and lowercase le
 For example:
 
 
-1. lowercase: 50.00 uppercase: 50.00
-2. lowercase: 20.00 uppercase: 80.00
-3. lowercase: 0.00 uppercase: 100.00
-4. lowercase: 33.33 uppercase: 66.67
+    lowercase: 50.00 uppercase: 50.00
+    lowercase: 20.00 uppercase: 80.00
+    lowercase: 0.00 uppercase: 100.00
+    lowercase: 33.33 uppercase: 66.67
 
