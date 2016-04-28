@@ -5,12 +5,12 @@ The Fibonacci series is defined as: F(0) = 0; F(1) = 1; F(n) = F(n–1) + F(n–
 ##INPUT SAMPLE:
 The first argument will be a path to a filename containing integer numbers, one per line. E.g.
 
-1. 5
-2. 12
+    5
+    12
 
 ##OUTPUT SAMPLE:
 Print to stdout, the fibonacci number, F(n). E.g.
 
-1. 5
-2. 144
+    5
+    144
 
