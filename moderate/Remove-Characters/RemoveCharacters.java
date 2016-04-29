@@ -13,16 +13,10 @@ public class Main {
         String sentence = line.substring(0,line.indexOf(','));
         String letters = line.substring(line.indexOf(',')+1).trim();
         int index = 0;
-        while (index < sentence.length()){
-        	if (hasLettersSentenceI(sentence,index,letters)){
-        		sentence = sentence.substring(0,index) + sentence.substring(index+1);
-        	} else index++;
+        while (index < letters.length()){
+            sentence = sentence.replace(String.valueOf(letters.charAt(index)),"");
+        	index++;
         }
         return sentence;
-    }
-    
-    private static boolean hasLettersSentenceI(String sentence,int index,String letters){
-    	String letter = sentence.substring(index,index+1);
-    	return letters.indexOf(letter)>=0;
     }
 }
