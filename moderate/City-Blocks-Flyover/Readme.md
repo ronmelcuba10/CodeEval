@@ -6,6 +6,8 @@ In our city we need to know how many blocks were impacted by a helicopter flying
 A helicopter took off at the South-West corner of the city and flew directly to the farthest North-East corner. Your challenge is to determine how many city blocks it flew over? 
 You will be given two lists, the first one is for streets and the second one is for avenues. Each avenue and each street is represented by a distance D to itself from the helicopter's starting point. E.g. 
  
+![alt text](https://github.com/ronmelcuba10/CodeEval/blob/master/moderate/City-Blocks-Flyover/manhattan_distance_1.jpg?raw=true "")
+![alt text](https://github.com/ronmelcuba10/CodeEval/blob/master/moderate/City-Blocks-Flyover/manhattan_distance_2.jpg?raw=true "")
 
 On the first diagram the streets and the avenues are represented by the following lists:
 
